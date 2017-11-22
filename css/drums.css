@@ -3,7 +3,7 @@ h1 {
 }
 body {
     position: absolute;
-    background-image: url("/img/note5.jpg");
+    background-image: url("../img/note5.jpg");
 }
 #btnDo {
     position: absolute;
