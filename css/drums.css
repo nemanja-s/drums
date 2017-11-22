@@ -1,0 +1,63 @@
+h1 {
+    color: black
+}
+body {
+    position: absolute;
+    background-image: url("/img/note5.jpg");
+}
+#btnDo {
+    position: absolute;
+    top: 91.6%;
+    left: 0.3%;
+    width: 60px;
+    height: 35px;
+}
+#btnRe {
+    position: absolute;
+    top: 91.6%;
+    left: 13%;
+    width: 60px;
+    height: 35px;
+}
+#btnMi {
+    position: absolute;
+    top: 91.6%;
+    left: 25.3%;
+    width: 60px;
+    height: 35px;
+}
+#btnFa {
+    position: absolute;
+    top: 91.6%;
+    left: 37.7%;
+    width: 60px;
+    height: 35px;
+}
+#btnSol {
+    position: absolute;
+    top: 91.6%;
+    left: 50%;
+    width: 60px;
+    height: 35px;
+}
+#btnLa {
+    position: absolute;
+    top: 91.6%;
+    left: 62.5%;
+    width: 60px;
+    height: 35px;
+}
+#btnSi {
+    position: absolute;
+    top: 91.6%;
+    left: 75%;
+    width: 60px;
+    height: 35px;
+}
+#btnDoo {
+    position: absolute;
+    top: 91.6%;
+    left: 87.5%;
+    width: 60px;
+    height: 35px;
+}
